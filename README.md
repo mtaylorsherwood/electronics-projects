@@ -14,6 +14,11 @@ Logs the current temperature in the room and sends it to the Adafruit IO service
 
 Uses a Enviro-phat by Pimoroni sat on a Raspberry Pi Zero.
 
+## Useful Repositories & Links
+
+- Raspberry Pi Webcam by [Jeff Geerling](https://github.com/geerlingguy)
+  - [https://github.com/geerlingguy/pi-webcam](https://github.com/geerlingguy/pi-webcam)
+
 ## Helpful Things
 
 ### Installing a Script as a Service
